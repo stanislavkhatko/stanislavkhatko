@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Header image](https://raw.githubusercontent.com/stanislavkhatko/stanislavkhatko/master/assets/mountains.jpeg])
+![Header image](https://raw.githubusercontent.com/stanislavkhatko/stanislavkhatko/master/assets/mountains.jpeg)
 
 I'm a nomad who loves to hide in a coding. Connect with me on LinkedIn.
 
